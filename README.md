@@ -2,7 +2,7 @@
 
 A comprehensive health monitoring and mood analysis application that leverages AI to provide personalized insights based on biometric data. MoodSync combines real-time health metrics tracking with intelligent mood analysis and an AI-powered chat companion.
 
-![MoodSync Dashboard](https://mind-meld-lakshmisravyave.replit.app)
+!(https://mind-meld-lakshmisravyave.replit.app)
 
 ## Features
 
