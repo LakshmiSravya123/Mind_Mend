@@ -157,9 +157,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For support, questions, or feature requests:
 
-- 📧 Email: support@moodsync.com
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/moodsync/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/yourusername/moodsync/discussions)
+- 📧 Email: lakshmisravya.vedantham@gmail.com
+- 🐛 Issues: [GitHub Issues](https://github.com/LakshmiSravya123/Mind_Mend/)
+
 
 ## Roadmap
 
